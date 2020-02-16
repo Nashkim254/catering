@@ -1,0 +1,17 @@
+
+.indextop {
+    width: 100%;
+    height: 450px;
+    background-image: url("../img/Custom/home.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}​
+.welcome_note{
+	font-size: 80px;
+	color: white;
+	display: none;
+}
+body{
+	background: #338230;
+}
